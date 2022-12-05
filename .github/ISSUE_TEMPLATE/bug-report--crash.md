@@ -2,7 +2,7 @@
 name: 'Bug Report: Crash'
 about: You ended up ON YOUR DESKTOP
 title: ''
-labels: branch-modmis, bug, crash
+labels: branch-osp, bug, crash
 assignees: ''
 
 ---
