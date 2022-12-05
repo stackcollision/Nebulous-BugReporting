@@ -2,7 +2,7 @@
 name: 'Bug Report: Incorrect Behavior'
 about: Something isn't working the way it should
 title: ''
-labels: branch-modmis, bug, incorrect behavior
+labels: branch-osp, bug, incorrect behavior
 assignees: ''
 
 ---
