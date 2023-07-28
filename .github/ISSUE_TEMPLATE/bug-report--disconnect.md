@@ -2,7 +2,7 @@
 name: 'Bug Report: Disconnect'
 about: An error/exception kicked you from a game and you ended up ON THE MAIN MENU
 title: ''
-labels: branch-osp, bug, disconnect
+labels: branch-conquest, bug, disconnect
 assignees: ''
 
 ---

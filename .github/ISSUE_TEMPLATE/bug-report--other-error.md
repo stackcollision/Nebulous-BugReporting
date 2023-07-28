@@ -2,7 +2,7 @@
 name: 'Bug Report: Other Error'
 about: I see red text, I report red text
 title: ''
-labels: branch-osp, bug, other errors
+labels: branch-conquest, bug, other errors
 assignees: ''
 
 ---
